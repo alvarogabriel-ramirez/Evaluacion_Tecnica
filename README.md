@@ -1,2 +1,2 @@
-# Evaluaci-n-T-cnica-
+# Evaluación-Técnica
 Evaluación Técnica Desarrollador Web Fullstack
